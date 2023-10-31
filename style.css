@@ -1,5 +1,7 @@
 /* Estilizando o cabeçalho */
 header {
+    display: block;
+    justify-content: space-between ;
     background-color: #333; /* Cor de fundo */
     color: #fff; /* Cor do texto */
     text-align: center;
