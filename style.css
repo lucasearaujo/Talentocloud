@@ -1,0 +1,33 @@
+/* Estilizando o cabeçalho */
+header {
+    background-color: #333; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilizando o título do cabeçalho */
+header h1 {
+    font-size: 24px;
+}
+
+/* Estilizando o parágrafo dentro do cabeçalho */
+header p {
+    font-style: italic;
+}
+
+/* Estilizando a imagem do cabeçalho */
+header img {
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+/* Estilizando os links na seção principal */
+main a {
+    text-decoration: none; /* Remover sublinhado dos links */
+    color: #0077b6; /* Cor do texto dos links */
+}
+
+main a:hover {
+    color: #00a8e8; /* Cor dos links ao passar o mouse */
+}
